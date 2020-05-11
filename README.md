@@ -5,9 +5,9 @@ This is an Angular UI that acts as the front-end authentication and display for 
 ## Environment Variables
 Fill in src/environments/environment.ts for the following values:
 
-``spotifyClientId
+``spotifyClientId``
 
-spotifyClientSecret``
+``spotifyClientSecret``
 
 Register these values for your application [here.](https://developer.spotify.com/dashboard/login)
 
