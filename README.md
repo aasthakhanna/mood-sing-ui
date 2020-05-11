@@ -9,7 +9,9 @@ Fill in src/environments/environment.ts for the following values:
 
 ``spotifyClientSecret``
 
-Register these values for your application [here.](https://developer.spotify.com/dashboard/login)
+Register these values for your application [here.](https://developer.spotify.com/dashboard/login).
+
+At this step, register your redirect URI as 'http://localhost:4200/authorize' as well.
 
 ## Development Server
 
